@@ -64,3 +64,7 @@ The build creates `TinyVolumeKeys.exe` in that same folder. Exit any running cop
 This uses the C# compiler supplied with Windows .NET Framework. No .NET SDK or NuGet restore is needed.
 
 Native hotkey behavior: [Microsoft RegisterHotKey documentation](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerhotkey).
+
+## License
+
+Licensed under the [MIT License](LICENSE).
